@@ -1,6 +1,7 @@
 # Enade analysis
 
 Pelase cite this work as 
+
 Rezende, C. C. da S., Cantarino, L. A. B., Souza, P. F. de, Alves, T. O. M., & Campos, R. S. (2022). 
 O impacto de aspectos socioeconômicos no desempenho de estudantes de Sistemas de Informação no Enade. Revista Brasileira De Informática Na Educação, 30, 157–181. 
 https://doi.org/10.5753/rbie.2022.2093
